@@ -4,7 +4,9 @@ Download nh-context and put it in the [resource] or [standalone] folder. (it doe
 
 
 Dependencies
+
 nh-context
+
 qb-menu
 
 ["rentalpapers"]				 = {["name"] = "rentalpapers", 					["label"] = "Rental Papers", 			["weight"] = 50, 		["type"] = "item", 		["image"] = "rentalpapers.png", 		["unique"] = true, 		["useable"] = false, 	["shouldClose"] = false, 	["combinable"] = nil, 	["description"] = "This car was taken out through car rental."},
